@@ -4,6 +4,16 @@ This repository is dedicated for the Artificial Intelligence course that I have 
 
 The repo contains all of the <b>sessions</b>, <b>assignments</b>, <b>source-codes</b> and <b>classwork</b> which I have provided in the labs.
 
+<h3>Syllabus:</h3>
+<ul>
+  <li>Artificial Intelligence: A Pilot View.</li>
+  <li>Intelligent Agents.</li>
+  <li>Propositional Logic.</li>
+  <li>First-Order Logic.</li>
+  <li>Introduction to Python.</li>
+  <li>Introduction to <b>Natural Language Processing (NLP)</b> using Python and <b>NLTK</b> Library.</li>
+</ul>
+
 <b>Office hours</b>:
 <ul>
   <li>Wednesday: (12:00 - 1:30) P.M. </li>
